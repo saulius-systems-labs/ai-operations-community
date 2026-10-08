@@ -2,7 +2,7 @@
 
 Public collaboration space for AI operations, software delivery, governance, and learning.
 
-This repository is the public community hub for saulius-systems-labs. It is intended to host practical notes, patterns, learning references, project updates, and collaboration discussions that should remain visible to contributors and the broader community.
+This repository is the public community hub for saulius-systems-labs. It is intended to host practical notes, patterns, learning references, project updates, and collaboration discussions that remain visible to contributors and the broader community.
 
 ## Mission
 
@@ -14,11 +14,12 @@ This repository is the public community hub for saulius-systems-labs. It is inte
 ## Scope
 
 This repository may host:
-- project announcements
-- architecture notes and summaries
+- project announcements and updates
+- architecture notes and practical patterns
 - contributor onboarding materials
 - learning references and curated reading lists
 - community guidance and collaboration practices
+- governance and operational frameworks
 
 ## Community principles
 
@@ -31,14 +32,14 @@ This repository may host:
 
 We are a public collaboration hub focused on AI operations, contributor trust, engineering learning, and community-driven software practice. We believe in transparency, practical implementation, and sustainable open collaboration.
 
-### Our focus areas:
+### Our focus areas
 
 - **AI Operations Architecture** — Practical patterns for building, scaling, and governing AI-enabled systems
 - **Contributor Trust** — Clear, transparent frameworks for community collaboration and verification
 - **Engineering Learning** — Structured paths for developers across AI, data, and modern software practices
 - **Community Collaboration** — Open frameworks for inclusive, respectful, and productive teamwork
 
-## Relevant repositories
+## Featured repositories
 
 - [contributor-verification-system](https://github.com/saulius-systems-labs/contributor-verification-system) — Verification framework for contributor authenticity and community trust
 - [developer-learning-paths](https://github.com/saulius-systems-labs/developer-learning-paths) — Curated learning paths for AI, data engineering, and modern software
@@ -47,31 +48,37 @@ We are a public collaboration hub focused on AI operations, contributor trust, e
 
 ## Discussion categories
 
-Recommended GitHub discussions categories:
-- Collaboration
+Recommended GitHub discussions topics:
+- Collaboration and contribution
 - Contributor onboarding
-- Learning paths
-- AI operations
-- Architecture reviews
-- Announcements
+- Learning paths and resources
+- AI operations and architecture
+- Architecture reviews and patterns
+- Announcements and updates
 
 ## Get involved
 
 We welcome contributors, learners, and collaborators who are interested in advancing AI operations, engineering practices, and community-driven development.
 
-### Opportunities to collaborate:
+### Opportunities to collaborate
 
-- **Explore talent programs**: [WorkTravel.Agency - For Talent](https://www.worktravel.agency/for-talent) — Join our talent network and explore collaboration opportunities
-- **Stay updated on AI Twin**: [Engineering My AI Twin - LinkedIn Newsletter](https://www.linkedin.com/newsletters/engineering-my-ai-twin-7497215161590521856/) — Subscribe to insights on building, scaling, and operating AI systems
-- **Learn with us**: [AI Systems Skills Academy - YouTube](https://www.youtube.com/@AI-Systems-Skills-Academy) — Access practical tutorials, architecture discussions, and learning resources
+- **Explore talent programs**: [WorkTravel.Agency — For Talent](https://www.worktravel.agency/for-talent) — Join our talent network and explore collaboration opportunities
+- **Follow updates**: [Engineering My AI Twin — LinkedIn Newsletter](https://www.linkedin.com/newsletters/engineering-my-ai-twin-7497215161590521856/) — Subscribe to insights on building practical AI systems
+- **Learn with us**: [AI Systems Skills Academy — YouTube](https://www.youtube.com/@AI-Systems-Skills-Academy) — Access practical tutorials, architecture discussions, and learning resources
+- **Support the mission**: [Open Collective](https://opencollective.com/saulius-systems-labs) — Contribute to sustainable community infrastructure and learning resources
 
-### Next steps:
+### Next steps
 
 1. **Browse our repositories** — explore the code and documentation
 2. **Join the discussion** — open an issue or participate in GitHub Discussions
 3. **Apply to collaborate** — visit [WorkTravel.Agency](https://www.worktravel.agency/for-talent) to explore collaboration opportunities
 4. **Subscribe for updates** — follow our [LinkedIn newsletter](https://www.linkedin.com/newsletters/engineering-my-ai-twin-7497215161590521856/) and [YouTube channel](https://www.youtube.com/@AI-Systems-Skills-Academy)
+5. **Support the community** — [contribute through Open Collective](https://opencollective.com/saulius-systems-labs)
 
 ## Maintainers
 
 This repository is public and community-oriented under the saulius-systems-labs organization.
+
+## Note
+
+Public repositories document reusable work and public collaboration patterns. Active member, delivery, and production systems remain private by design.
